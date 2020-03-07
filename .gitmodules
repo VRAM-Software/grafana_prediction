@@ -1,12 +1,9 @@
 [submodule "VRAM_SW_DOC_2020"]
 	path = VRAM_SW_DOC_2020
 	url = https://github.com/marcoDallas/VRAM_SW_DOC_2020.git
-	branch = master
 [submodule "prediction_configuration_utility"]
 	path = prediction_configuration_utility
 	url = https://github.com/VRAM-Software/prediction_configuration_utility.git
-	branch = master
 [submodule "grafana_prediction_plugin"]
 	path = grafana_prediction_plugin
 	url = https://github.com/VRAM-Software/grafana_prediction_plugin.git
-	branch = master
